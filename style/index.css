@@ -1,1 +1,5 @@
 @import url('base.css');
+
+.jp-MarkdownCell {
+    max-width: 80ch;
+}
